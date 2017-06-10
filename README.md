@@ -1,6 +1,6 @@
 # Airpollution
 
-##ScreenShot
+ScreenShot
 ![Alt text](https://github.com/Ants1104/Airpollution/blob/master/ScreenShot/19125159_1933391763567309_1515354105_o.png)
 
 ## 實作動機
