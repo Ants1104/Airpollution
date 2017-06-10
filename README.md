@@ -3,7 +3,6 @@
 ##ScreenShot
 ![Alt text](https://github.com/Ants1104/Airpollution/blob/master/ScreenShot/19125159_1933391763567309_1515354105_o.png)
 
-Our URL : https://play.oneforall.tw/airpollution.php
 ## 實作動機
 由於近年來在新聞上看到許多養殖畜農牧業所造成的排泄物及工廠排廢棄物，
 其實是PM2.5人為造成的主因，又因民間政府在檢驗這一塊缺乏立即性。
@@ -24,4 +23,7 @@ Our URL : https://play.oneforall.tw/airpollution.php
 * 作品網址：
 https://play.oneforall.tw/airpollution.php
 * 參考資料：
-http://kiang.github.io/tw_population/
+https://airbox.edimaxcloud.com/
+http://aris.coa.gov.tw/
+https://dmz9.moea.gov.tw/gmweb/investigate/InvestigateFactory.aspx
+https://www.land.moi.gov.tw/landdatabase/chhtml/content.asp?cid=1017
